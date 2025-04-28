@@ -1,2 +1,2 @@
 # How-to-Enhance-Your-Data-Science-Presentations-Demo-
-This demo shows how you can easily enhance your data science presentations using matplotlib and seaborn.
+This demo shows how you can easily enhance your data science presentations using matplotlib and seaborn. I recently have fallen in love with data visualization techniques, and I also won the "Best Visualization" award at the 2025 DataFest competition back in March. I thought I would create a demo showing quick and easy tips for enhancing a simple graph!
